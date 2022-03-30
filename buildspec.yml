@@ -10,3 +10,6 @@ phases:
   post_build:
     commands:
       - echo Post Build Phase
+artifacts:
+  files:
+    - target/spring-boot-hello-world.jar
