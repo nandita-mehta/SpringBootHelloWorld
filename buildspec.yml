@@ -12,4 +12,4 @@ phases:
       - echo Post Build Phase
 artifacts:
   files:
-    - spring-boot-hello-world.jar
+    - spring-boot-hello-world-0.1.jar
